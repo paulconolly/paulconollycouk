@@ -1,0 +1,1 @@
+Place contrib and custom modules in their respective directories
